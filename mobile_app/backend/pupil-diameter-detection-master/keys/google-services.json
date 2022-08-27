@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "570307377631",
+    "firebase_url": "https://pupil-detection-default-rtdb.firebaseio.com",
+    "project_id": "pupil-detection",
+    "storage_bucket": "pupil-detection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570307377631:android:bbeecc849b64e9c46f2c6a",
+        "android_client_info": {
+          "package_name": "ai.retail.pupildetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570307377631-a2f130i5bju2v00ivg375su08qgvbeva.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ai.retail.pupildetection",
+            "certificate_hash": "6adaba188a70a246829318a1b34da505aed1ceae"
+          }
+        },
+        {
+          "client_id": "570307377631-jb3er5099rasblcg8oi1g5lou5l95cmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjtKCuOiUhBgyVU1CMVDX3A2X-kMhZ3EU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570307377631-jb3er5099rasblcg8oi1g5lou5l95cmq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
